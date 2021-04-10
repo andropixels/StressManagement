@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@color/yellowww"
+    android:layout_margin="15dp"
+
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/image"
+        android:src="@drawable/nostress"
+        />
+
+    <TextView
+        android:id="@+id/writehere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/image"
+        android:layout_marginTop="10dp"
+
+        android:layout_marginStart="8dp"
+        android:text="dont stress over things you cant handle"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        />
+
+</RelativeLayout>

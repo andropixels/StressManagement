@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131599103758",
+    "project_id": "stressmangement-67335",
+    "storage_bucket": "stressmangement-67335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131599103758:android:60c0f6b52003ed741d895f",
+        "android_client_info": {
+          "package_name": "com.rahul.stressmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131599103758-diiet8hvsbt27bdfbohqudn3sat8hoif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.stressmanagement",
+            "certificate_hash": "cbb1b90d6a3379e5fb8a6f80e67d68dbed3a64aa"
+          }
+        },
+        {
+          "client_id": "131599103758-4rqlfe9aj73k3f5pb3e564jgbnk64jtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7yLEJSOnMw_lhg00UqTdQXvPbl4u_pVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131599103758-4rqlfe9aj73k3f5pb3e564jgbnk64jtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
